@@ -1,12 +1,12 @@
 version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
-options: "a9e69ef48a60740be07d7d16bd1fb52b"
-build_time: [1579604883, 142969000]
+options: "09e44857d8402c6bed353a571f7f10d0"
+build_time: [1579605528, 803073000]
 inputs:
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/Utility/UIImageView+extenstion.swift": [1579602012, 396752983]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/Utility/APIManager.swift": [1579602012, 450344392]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/viewcontroller/ViewController.swift": [1579602012, 423302444]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/AppDelegate.swift": [1579602012, 390459069]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/viewcontroller/model/MissionModel.swift": [1579602012, 382333648]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/viewcontroller/cell/viewControllerCell.swift": [1579604870, 282855333]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/Utility/UIView+extenstion.swift": [1579602012, 491064928]
-  "/Users/alkeshfudani/Downloads/SpaceMonitoring/SpaceMonitoring/DetailViewController/DetailViewController.swift": [1579604882, 794159296]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/UIImageView+extenstion.swift": [1579602012, 396752954]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/APIManager.swift": [1579602012, 450344443]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/ViewController.swift": [1579602012, 423302412]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/AppDelegate.swift": [1579602012, 390459061]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/model/MissionModel.swift": [1579602012, 382333636]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/cell/viewControllerCell.swift": [1579604870, 282855392]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/UIView+extenstion.swift": [1579602012, 491064906]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/DetailViewController/DetailViewController.swift": [1579604904, 35623312]

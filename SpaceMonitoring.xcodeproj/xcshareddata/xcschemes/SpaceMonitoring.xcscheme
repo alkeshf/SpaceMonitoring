@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0F46BC2E23D6060D001A5515"
-               BuildableName = "Interview.app"
+               BuildableName = "SpaceMonitoring.app"
                BlueprintName = "Interview"
                ReferencedContainer = "container:SpaceMonitoring.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0F46BC2E23D6060D001A5515"
-            BuildableName = "Interview.app"
+            BuildableName = "SpaceMonitoring.app"
             BlueprintName = "Interview"
             ReferencedContainer = "container:SpaceMonitoring.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0F46BC2E23D6060D001A5515"
-            BuildableName = "Interview.app"
+            BuildableName = "SpaceMonitoring.app"
             BlueprintName = "Interview"
             ReferencedContainer = "container:SpaceMonitoring.xcodeproj">
          </BuildableReference>

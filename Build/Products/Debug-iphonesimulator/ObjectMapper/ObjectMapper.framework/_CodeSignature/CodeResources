@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/ObjectMapper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0a1RykTjmGZZaudV4VOCz9tpPjM=
+		Fe+LeI/PJyLQozotOb7+v5AjuPg=
 		</data>
 		<key>Modules/ObjectMapper.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ObjectMapper.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0a1RykTjmGZZaudV4VOCz9tpPjM=
+		Fe+LeI/PJyLQozotOb7+v5AjuPg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0a1RykTjmGZZaudV4VOCz9tpPjM=
+			Fe+LeI/PJyLQozotOb7+v5AjuPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BFJnYZMC9NvSC8znWfWiz7gVQoKDfwPAibjeg4tFzJw=
+			4Phf3RFYKC4BYli3+sd/dDlvvND5OrtYN+YPtBXikys=
 			</data>
 		</dict>
 		<key>Modules/ObjectMapper.swiftmodule/x86_64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0a1RykTjmGZZaudV4VOCz9tpPjM=
+			Fe+LeI/PJyLQozotOb7+v5AjuPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BFJnYZMC9NvSC8znWfWiz7gVQoKDfwPAibjeg4tFzJw=
+			4Phf3RFYKC4BYli3+sd/dDlvvND5OrtYN+YPtBXikys=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
