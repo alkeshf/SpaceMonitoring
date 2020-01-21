@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "805ca09ed5692a00753e763afd76773a"
+build_time: [1579601821, 323407000]
+inputs:
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/AFError.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Alamofire.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/MultipartFormData.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Notifications.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/ParameterEncoding.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Request.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Response.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/ResponseSerialization.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Result.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/SessionDelegate.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/SessionManager.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/TaskDelegate.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Timeline.swift": [1579522348, 0]
+  "/Users/alkeshfudani/Downloads/SpaceMonitoring/Pods/Alamofire/Source/Validation.swift": [1579522348, 0]

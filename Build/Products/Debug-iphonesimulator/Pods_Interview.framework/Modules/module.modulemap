@@ -1,0 +1,6 @@
+framework module Pods_SpaceMonitoring {
+  umbrella header "Pods-SpaceMonitoring-umbrella.h"
+
+  export *
+  module * { export * }
+}

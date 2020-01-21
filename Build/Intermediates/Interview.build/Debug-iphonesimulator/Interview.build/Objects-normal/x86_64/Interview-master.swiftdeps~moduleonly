@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "00aef3db06d9d31b9d5a38cb630c86c5"
+build_time: [1579599169, 860424000]
+inputs:
+  "/Users/alkeshfudani/Downloads/Interview/Interview/Utility/UIImageView+extenstion.swift": [1579598269, 718038933]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/Utility/APIManager.swift": [1579594990, 976427625]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/viewcontroller/ViewController.swift": [1579599169, 176736104]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/AppDelegate.swift": [1579595389, 416337651]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/viewcontroller/model/MissionModel.swift": [1579595330, 672706187]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/viewcontroller/cell/viewControllerCell.swift": [1579595330, 685512397]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/Utility/UIView+extenstion.swift": [1579594991, 9137375]
+  "/Users/alkeshfudani/Downloads/Interview/Interview/DetailViewController/DetailViewController.swift": [1579595330, 695999453]
