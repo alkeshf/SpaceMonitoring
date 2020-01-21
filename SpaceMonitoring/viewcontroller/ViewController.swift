@@ -8,6 +8,10 @@
 import UIKit
 import ObjectMapper
 
+let url : String = "https://spacelaunchnow.me/api/3.3.0/launch/upcoming/?format=json"
+let segueId : String = "performSegueDetailViewController"
+let tableCell :String = "viewControllerCell"
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var tblView:UITableView!
@@ -22,7 +26,7 @@ class ViewController: UIViewController {
     
     func callApi(){
         self.spinner.startAnimating()
-        APIManager.get("https://spacelaunchnow.me/api/3.3.0/launch/upcoming/?format=json") { (error, json) in
+        APIManager.get(url) { (error, json) in
             guard let jsonResponse = json else {
                 return
             }
@@ -33,7 +37,7 @@ class ViewController: UIViewController {
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if segue.identifier == "performSegueDetailViewController" {
+        if segue.identifier == segueId {
             let controller = segue.destination as? DetailViewController
             controller?.shareobj = sender as? MissionModel
         }
@@ -47,7 +51,7 @@ extension ViewController:UITableViewDataSource,UITableViewDelegate{
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        guard let cell = tableView.dequeueReusableCell(withIdentifier: "viewControllerCell") as? viewControllerCell else {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: tableCell) as? viewControllerCell else {
             return UITableViewCell()
         }
         cell.imgView?.image = UIImage(named:"rocket")
@@ -56,6 +60,6 @@ extension ViewController:UITableViewDataSource,UITableViewDelegate{
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        self.performSegue(withIdentifier: "performSegueDetailViewController", sender: self.arrOfRockets[indexPath.row])
+        self.performSegue(withIdentifier: segueId, sender: self.arrOfRockets[indexPath.row])
     }
 }

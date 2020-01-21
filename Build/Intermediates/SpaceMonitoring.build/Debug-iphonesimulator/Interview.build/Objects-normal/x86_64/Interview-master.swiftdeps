@@ -1,12 +1,12 @@
 version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
 options: "09e44857d8402c6bed353a571f7f10d0"
-build_time: [1579605528, 803073000]
+build_time: [1579641083, 278792000]
 inputs:
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/UIImageView+extenstion.swift": [1579602012, 396752954]
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/APIManager.swift": [1579602012, 450344443]
-  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/ViewController.swift": [1579602012, 423302412]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/ViewController.swift": [1579641082, 715653248]
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/AppDelegate.swift": [1579602012, 390459061]
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/model/MissionModel.swift": [1579602012, 382333636]
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/viewcontroller/cell/viewControllerCell.swift": [1579604870, 282855392]
   "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/Utility/UIView+extenstion.swift": [1579602012, 491064906]
-  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/DetailViewController/DetailViewController.swift": [1579604904, 35623312]
+  "/Users/alkeshfudani/SpaceMonitoring/SpaceMonitoring/DetailViewController/DetailViewController.swift": [1579605560, 689605151]
